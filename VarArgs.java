@@ -1,11 +1,7 @@
 
 //Œ“ «XX
 public class VarArgs{
-	public String p(People...people){
-		for(People peo: people){
-			System.out.println(peo);
-		}
-	}	
+	
 	
 ashjkdhjksadhjkhsakjhdjkhsajkd
 sdasiodoasodioasudiouasioudoasd
