@@ -1,5 +1,5 @@
 
-//我是XX
+//我是严XX
 public class VarArgs{
 	public String p(People...people){
 		for(People peo: people){
